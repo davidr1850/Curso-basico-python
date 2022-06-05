@@ -2,7 +2,10 @@
 
 En este curso aprenderas a programar en Python
 
-![Logo de Python](Imagenes\logo-python.jpg)
+
+![Logo python](Imagenes\logo-python.jpg)
+
+
 
 **Requisitos**
 - Python 3.6 o superior
