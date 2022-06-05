@@ -2,7 +2,7 @@
 
 En este curso aprenderas a programar en Python
 
-![](Imagenes\logo-python.jpg)
+![]([Imagenes\logo-python.jpg](https://github.com/davidr1850/Curso-basico-python/blob/main/Imagenes/logo-python.jpg))
 
 
 **Requisitos**
